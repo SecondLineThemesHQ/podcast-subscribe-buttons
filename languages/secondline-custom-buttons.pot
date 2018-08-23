@@ -1,0 +1,596 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Podcast Subscribe Buttons\n"
+"POT-Creation-Date: 2018-08-22 23:14+0300\n"
+"PO-Revision-Date: 2018-08-22 23:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: podcast-subscribe-buttons.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: CMB2/CMB2/includes/CMB2.php:179
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2.php:582
+msgid "Click to toggle"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Ajax.php:189
+#: CMB2/CMB2/includes/helper-functions.php:105
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Base.php:491
+#: CMB2/CMB2/includes/CMB2_Hookup_Base.php:100
+#: CMB2/CMB2/includes/CMB2_Options_Hookup.php:341
+#: CMB2/CMB2/includes/types/CMB2_Type_Base.php:173
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Base.php:506
+#: CMB2/CMB2/includes/types/CMB2_Type_Base.php:157
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Field.php:1296
+msgid "Add Group"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Field.php:1297
+msgid "Remove Group"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Field.php:1328
+#: CMB2/CMB2/includes/CMB2_Field.php:1332
+msgid "None"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Field.php:1443
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Field_Display.php:432
+#: CMB2/CMB2/includes/CMB2_JS.php:228
+#: CMB2/CMB2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Hookup_Base.php:42
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:165 CMB2/CMB2/includes/CMB2_JS.php:208
+msgid "Clear"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:166
+msgid "Default"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:167
+msgid "Select Color"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:168
+msgid "Current Color"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:198
+msgctxt "Valid formatDate string for jquery-ui datepicker"
+msgid "mm/dd/yy"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:199
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:200
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:201
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:202
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:203
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:204
+msgid "Next"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:205
+msgid "Prev"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:206
+msgid "Today"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:207 CMB2/CMB2/includes/CMB2_JS.php:217
+msgid "Done"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:211
+msgid "Choose Time"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:212
+msgid "Time"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:213
+msgid "Hour"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:214
+msgid "Minute"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:215
+msgid "Second"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:216
+msgid "Now"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:218
+msgctxt ""
+"Valid formatting string, as per http://trentrichardson.com/examples/"
+"timepicker/"
+msgid "hh:mm TT"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:224
+msgid "Use this file"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:225
+msgid "Use these files"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:226
+#: CMB2/CMB2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:227 CMB2/CMB2/includes/CMB2_Types.php:412
+#: CMB2/CMB2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:229
+#: CMB2/CMB2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_JS.php:230
+msgid "Select / Deselect All"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Options_Hookup.php:131
+msgid "Nothing to update."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Options_Hookup.php:135
+msgid "Settings updated."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Types.php:349
+msgid "Add Row"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_Types.php:412
+msgid "Remove Row"
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_hookup.php:181
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_hookup.php:185
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: CMB2/CMB2/includes/CMB2_hookup.php:458
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: CMB2/CMB2/includes/helper-functions.php:303
+msgid "Save"
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: CMB2/CMB2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:35
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:47
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:59
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:71
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:83
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:95
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:107
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:119
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:131
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:143
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:155
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: CMB2/CMB2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: CMB2/CMB2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: CMB2/CMB2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: CMB2/CMB2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: CMB2/cmb2-init.php:36
+msgid "Subscribe Links"
+msgstr ""
+
+#: CMB2/cmb2-init.php:41
+msgid "Button Text"
+msgstr ""
+
+#: CMB2/cmb2-init.php:48
+msgid "Button Type"
+msgstr ""
+
+#: CMB2/cmb2-init.php:53
+msgid "Modal / Pop-Up"
+msgstr ""
+
+#: CMB2/cmb2-init.php:54
+msgid "Inline Buttons"
+msgstr ""
+
+#: CMB2/cmb2-init.php:55
+msgid "List of Buttons"
+msgstr ""
+
+#: CMB2/cmb2-init.php:60
+msgid "Button Style"
+msgstr ""
+
+#: CMB2/cmb2-init.php:64
+msgid "Square"
+msgstr ""
+
+#: CMB2/cmb2-init.php:65
+msgid "Rounded Square"
+msgstr ""
+
+#: CMB2/cmb2-init.php:66
+msgid "Rounded"
+msgstr ""
+
+#: CMB2/cmb2-init.php:71
+msgid "Background Color"
+msgstr ""
+
+#: CMB2/cmb2-init.php:81
+msgid "Text Color"
+msgstr ""
+
+#: CMB2/cmb2-init.php:91
+msgid "Hover Background Background"
+msgstr ""
+
+#: CMB2/cmb2-init.php:101
+msgid "Hover Text Color"
+msgstr ""
+
+#: CMB2/cmb2-init.php:114
+msgid "Add Subscribe Button Links"
+msgstr ""
+
+#: CMB2/cmb2-init.php:117
+msgid "Subscribe Link {#}"
+msgstr ""
+
+#: CMB2/cmb2-init.php:118
+msgid "Add Another Link"
+msgstr ""
+
+#: CMB2/cmb2-init.php:119
+msgid "Remove Link"
+msgstr ""
+
+#: CMB2/cmb2-init.php:131
+msgid "Apple Podcasts"
+msgstr ""
+
+#: CMB2/cmb2-init.php:132
+msgid "Google Podcasts"
+msgstr ""
+
+#: CMB2/cmb2-init.php:133
+msgid "iTunes"
+msgstr ""
+
+#: CMB2/cmb2-init.php:134
+msgid "Google Play"
+msgstr ""
+
+#: CMB2/cmb2-init.php:135
+msgid "Stitcher"
+msgstr ""
+
+#: CMB2/cmb2-init.php:136
+msgid "RSS"
+msgstr ""
+
+#: CMB2/cmb2-init.php:137
+msgid "SoundCloud"
+msgstr ""
+
+#: CMB2/cmb2-init.php:138
+msgid "Spotify"
+msgstr ""
+
+#: CMB2/cmb2-init.php:139
+msgid "TuneIn"
+msgstr ""
+
+#: CMB2/cmb2-init.php:140
+msgid "Spreaker"
+msgstr ""
+
+#: CMB2/cmb2-init.php:141
+msgid "Miro"
+msgstr ""
+
+#: CMB2/cmb2-init.php:142
+msgid "iHeartRadio"
+msgstr ""
+
+#: CMB2/cmb2-init.php:143
+msgid "Blubrry"
+msgstr ""
+
+#: CMB2/cmb2-init.php:144
+msgid "Clammr"
+msgstr ""
+
+#: CMB2/cmb2-init.php:145
+msgid "Castbox"
+msgstr ""
+
+#: CMB2/cmb2-init.php:146
+msgid "Overcast"
+msgstr ""
+
+#: CMB2/cmb2-init.php:147
+msgid "PocketCasts"
+msgstr ""
+
+#: CMB2/cmb2-init.php:148
+msgid "Downcast"
+msgstr ""
+
+#: CMB2/cmb2-init.php:149
+msgid "Deezer"
+msgstr ""
+
+#: CMB2/cmb2-init.php:150
+msgid "Castro"
+msgstr ""
+
+#: CMB2/cmb2-init.php:151
+msgid "Libsyn"
+msgstr ""
+
+#: CMB2/cmb2-init.php:152
+msgid "MixCloud"
+msgstr ""
+
+#: CMB2/cmb2-init.php:153
+msgid "Podbean"
+msgstr ""
+
+#: CMB2/cmb2-init.php:154
+msgid "Amazon Alexa"
+msgstr ""
+
+#: podcast-subscribe-buttons.php:37
+msgid "Subscribe Buttons"
+msgstr ""
+
+#: podcast-subscribe-buttons.php:38
+msgid "Subscribe Button"
+msgstr ""
+
+#: podcast-subscribe-buttons.php:115
+msgid "Shortcode: "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Podcast Subscribe Buttons"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Custom Subscribe Buttons For Podcasts"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SecondLine Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://secondlinethemes.com"
+msgstr ""
