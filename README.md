@@ -1,19 +1,6 @@
 # Podcast Subscribe Buttons
 A sleek WordPress plugin that allows creating custom Podcast Subscribe Buttons.
 
-
-=== Podcast Subscribe Buttons ===
-Contributors: secondlinethemes
-Donate link: https://secondlinethemes.com/
-Tags: podcast, subscribe, podcasting, buttons, social
-Requires at least: 3.8
-Tested up to: 4.9.8
-Requires PHP: 5.4
-License: GPLv3 or later
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
-
-Add beautiful podcast subscribe buttons anywhere.
-
 == Description ==
 
 This plugin helps to easily include custom Subscribe Buttons anywhere within your site with a simple shortcode. 
