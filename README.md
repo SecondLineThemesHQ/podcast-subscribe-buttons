@@ -11,7 +11,7 @@ To use the plugin, simply create a new "Subscribe Button" via the menu that appe
 
 == About SecondLineThemes ==
 
-SecondLineThemes is a theme shop and developer for Podcast related themes and plugins for WordPress. To hear more about us please visit us here:
+SecondLineThemes is a theme shop and developer of Podcast related themes and plugins for WordPress. To hear more about us please visit us here:
 https://secondlinethemes.com
 
 
