@@ -25,7 +25,7 @@ SecondLineThemes is a theme shop and developer of Podcast related themes and plu
 
 == Frequently Asked Questions ==
 
-### Do you support any additional networks or icons? 
+= Do you support any additional networks or icons? 
 Sure. If you feel something is missing, please reach out and we will ensure to add in a future update.
 
 == Screenshots ==
