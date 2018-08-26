@@ -11,8 +11,8 @@ To use the plugin, simply create a new "Subscribe Button" via the menu that appe
 
 == About SecondLineThemes ==
 
-SecondLineThemes is a theme shop and developer of Podcast related themes and plugins for WordPress. To hear more about us please visit us here:
-https://secondlinethemes.com
+SecondLineThemes is a theme shop and developer of Podcast related themes and plugins for WordPress. To hear more about us please check our website:
+[https://secondlinethemes.com](https://secondlinethemes.com)
 
 
 == Installation ==
@@ -25,13 +25,21 @@ https://secondlinethemes.com
 
 == Frequently Asked Questions ==
 
-= None, yet. =
+### Do you support any additional networks or icons? 
+Sure. If you feel something is missing, please reach out and we will ensure to add in a future update.
 
-Feel free to be the first to ask!
+== Screenshots ==
 
+1. Display a Modal (Pop-Up Lightbox) with a list of subscribe icons.
+2. Inline buttons that can fit on any page.
+3. Show a list of buttons on your sidebar or within posts and pages.
 
 == Changelog ==
 
+## 1.0.1
+* Added demo screenshots.
+* Modified readme.txt file.
+* Check if CMB2 is already installed.
 
-= 1.0 =
-Initial Release.
+## 1.0 
+* Initial Release.
