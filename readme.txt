@@ -3,7 +3,7 @@ Contributors: secondlinethemes
 Donate link: https://secondlinethemes.com/
 Tags: podcast, subscribe, podcasting, buttons, social
 Requires at least: 3.8
-Tested up to: 4.9.8
+Tested up to: 5.0
 Requires PHP: 5.4
 Stable tag: trunk
 License: GPLv3 or later
@@ -45,6 +45,20 @@ Sure. If you feel something is missing, please reach out and we will ensure to a
 3. Show a list of buttons on your sidebar or within posts and pages.
 
 == Changelog ==
+
+## 1.0.5
+* Changed modal class to prevent theme conflicts.
+
+## 1.0.4
+* Fixed query conflict on pages/posts with comments. 
+* Fixed CastBox icon.
+* Added podcast.de icon.
+
+## 1.0.3
+* Compatibility with WordPress 5.0 and Gutenberg.
+
+## 1.0.2
+* Fixed unresponsive buttons.
 
 ## 1.0.1
 * Added demo screenshots.

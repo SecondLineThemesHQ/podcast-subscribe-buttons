@@ -2,7 +2,7 @@
 /*
 Plugin Name: Podcast Subscribe Buttons
 Description: Custom Subscribe Buttons For Podcasts
-Version: 1.0.1
+Version: 1.0.5
 Author: SecondLine Themes
 Author URI: http://secondlinethemes.com
 Author Email: support@secondlinethemes.com
@@ -125,7 +125,7 @@ require_once SECONDLINE_PSB_SUBSCRIBE_ELEMENTS_PATH.'CMB2/cmb2-init.php';
 function secondline_psb_button_scripts() {
     wp_register_style( 'secondline-psb-subscribe-button-styles',  SECONDLINE_PSB_SUBSCRIBE_ELEMENTS_URL . 'assets/css/secondline-psb-styles.css' );
     wp_enqueue_style(  'secondline-psb-subscribe-button-styles' );
-    wp_enqueue_script( 'secondline_psb_button_modal_script', SECONDLINE_PSB_SUBSCRIBE_ELEMENTS_URL . 'assets/js/modal.min.js' );
-	wp_enqueue_script( 'secondline_psb_button_custom_scripts', SECONDLINE_PSB_SUBSCRIBE_ELEMENTS_URL . 'assets/js/secondline-psb-modal.js' );
+    wp_enqueue_script( 'secondline_psb_button_modal_script', SECONDLINE_PSB_SUBSCRIBE_ELEMENTS_URL . 'assets/js/modal.min.js', array( 'jquery' ), '1.0.0', true );
+	wp_enqueue_script( 'secondline_psb_button_custom_scripts', SECONDLINE_PSB_SUBSCRIBE_ELEMENTS_URL . 'assets/js/secondline-psb-modal.js', array( 'jquery' ), '1.0.0', true );
 }
 add_action( 'wp_enqueue_scripts', 'secondline_psb_button_scripts' );
